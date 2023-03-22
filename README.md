@@ -1,1 +1,4 @@
-# electronics
+# Electronics
+
+> NOTE - Ongoing projects
+
