@@ -9,3 +9,11 @@ The ICL8038 chip serves as a function generator capable of producing three funda
 ![image](https://user-images.githubusercontent.com/44589560/226873857-3319d316-a259-4de2-9c41-46588702495f.png)
 
 * [ICL8038 Datasheet](https://www.nxp.com/docs/en/data-sheet/ICL8038.pdf)
+
+## References
+* http://www.zpag.net/Electroniques/English/Tester/basic_circuit_function_generator_ICL8038.html
+* https://www.circuits-diy.com/diy-function-signal-generator-using-icl8038/
+* https://www.tindie.com/products/bluemonkeydev/icl8038-functionsignal-generator-assembled-test/
+* https://goughlui.com/2021/03/01/project-generic-icl8038-based-signal-generator-kit/
+* https://www.instructables.com/DIY-Function-Generator-ICL8038-0-Hz-400Khz/
+* https://let-elektronik.dk/Frequency-Generator-Kit-FG085?gclid=CjwKCAjwzuqgBhAcEiwAdj5dRm9LDDvTC3VFzVyFkjwc3-oDUCFmEXoKWyweh2IJ4f5j8mATpDNONxoCvJsQAvD_BwE
