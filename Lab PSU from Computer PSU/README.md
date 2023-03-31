@@ -1,5 +1,7 @@
 # Lab PSU from Computer PSU
 
+## Connectors from the computer PSU
+
 ![image](https://user-images.githubusercontent.com/44589560/229071957-dabc0be0-5948-457e-a146-47eb147645b6.png)
 
 ![image](https://user-images.githubusercontent.com/44589560/229072010-f89e4fae-29f4-4afe-92a0-9511e05edc12.png)
