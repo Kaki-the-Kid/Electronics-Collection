@@ -14,3 +14,6 @@
 
 ![image](https://user-images.githubusercontent.com/44589560/229072148-3ce47b0a-6474-4363-a83b-f6e5e7278ae3.png)
 
+## References and Sources
+
+* [COMPUTER POWER SUPPLY: PINOUT, CABLES, CONNECTORS](https://www.smpspowersupply.com/connectors-pinouts.html)
