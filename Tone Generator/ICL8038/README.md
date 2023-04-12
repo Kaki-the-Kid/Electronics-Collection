@@ -17,4 +17,6 @@ The ICL8038 chip serves as a function generator capable of producing three funda
 
 
 ## Circuit 1
+The circuit wass found at: http://www.zpag.net/Electroniques/English/Tester/basic_circuit_function_generator_ICL8038.html
+
 ![image](https://user-images.githubusercontent.com/44589560/231381068-7176b6aa-2509-42c8-bc7b-134eae4234fc.png)
